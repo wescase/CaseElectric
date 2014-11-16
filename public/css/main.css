@@ -1,0 +1,87 @@
+body {
+	background-color: #242424;
+	color: #B2B2B2;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #B2B2B2;
+}
+
+.jumbotron {
+	background-image: url("/images/JumbotronLightening.jpg");
+}
+
+.jumbotron h1 {
+	font-size: 3.7em;
+}
+
+.jumbotron h1, h4 {
+	opacity: 0.4;
+}
+
+.clear {
+	clear: both;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Audiowide', cursive;
+}
+
+p, li {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1.2em;
+}
+
+body {
+  padding-top: 60px;
+}
+
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
+.homeImg {
+	max-width: 80%;
+	margin-top: 60px;
+	margin-bottom: 30px
+}
+
+.homePara {
+	margin-top: 30px;
+	margin-bottom: 20px
+}
+
+.navbar-nav > li > .dropdown-menu {
+	background-color: #000;
+	color: white;
+}
+
+.dropdown-menu > li > a {
+	color: #B2B2B2;
+}
+
+.dropdown-menu > li > a:hover {
+	color: white;
+	background-color: #242424;
+}
+
+.btn-default {
+	opacity: 0.2;
+}
+
+.ourWork {
+	max-width: 350px;
+}
+
+.indentRight {
+	margin-left: 100px;
+}
+
+.
