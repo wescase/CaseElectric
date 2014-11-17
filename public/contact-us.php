@@ -2,7 +2,10 @@
 	include "header.html";
 ?>
 <div class="container">
-	<h1>CONTACT US</h1>
+	<h1 class="headerClearNav">CONTACT US</h1>
+</div>
+
+<div class="container">
 	<hr>
 	<div class="container">
 		<div class="col-lg-6 col-md-6 col-sm-12">

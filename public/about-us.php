@@ -1,10 +1,11 @@
 <?php
 	include "header.html";
 ?>
-
+<div class="container">
+	<h1 class="headerClearNav">CASE ELECTRIC</h1>
+</div>
 
 <div class="container">
-<h1>CASE ELECTRIC</h1>
 <hr>
 	<div class="container">
 		<div class="row">
