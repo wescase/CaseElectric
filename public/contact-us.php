@@ -9,22 +9,16 @@
 	<hr>
 	<div class="container">
 		<div class="col-lg-6 col-md-6 col-sm-12">
-			<h4>ADDRESS:</h4>
+			<h3>ADDRESS:</h3>
 			<address>
 				5002 South 40th street suite E<br>Phoenix, AZ 85040
 			</address>
 			<br>
-			<h3>SCHEDULING CONTACT:</h3>
-			<h4>Bryce</h4> 
-			<p> C: (480) 734-4750<br>
-				F: (480) 323-2055<br>
+			<h3>SCHEDULING AND BILLING:</h3>
+			<h4>Office</h4> 
+			<p> P: (480) 433-9798<br>
+				F: (602) 438-4395<br>
 				E: bryce@caseelectricaz.com
-			</p>
-			<h3>BILLING CONTACT:</h3>
-			<h4>Suzy</h4> 
-			<p> C: (480) 734-4750<br>
-				F: (480) 323-2055<br>
-				E: suzy@caseelectricaz.com
 			</p>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-12">

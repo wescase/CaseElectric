@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Audiowide', cursive;
 }
 
-p, li {
+p, li, address {
 	font-family: 'Titillium Web', sans-serif;
 	font-size: 1.2em;
 }
@@ -85,11 +85,29 @@ body {
 	max-height: 450px;
 }
 
-
 .indentRight {
 	margin-left: 100px;
 }
 
 .headerClearNav {
 	margin-top: 30px;
+}
+
+.float-right {
+	float: right;
+}
+
+.float-left {
+	float: left;
+}
+
+.mobileMenu {
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-right: 10px;
+}
+
+.centerList {
+	text-align: center;
+	list-style: none;
 }

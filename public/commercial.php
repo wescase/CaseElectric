@@ -12,8 +12,24 @@
 		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 			<img src="/images/commercialPanel.jpg"class="ourWork center">
 		</div>
-		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		<div class="hidden-xs hidden-sm col-md-6 col-lg-6">
 			<ul>
+				<li>Lighting design/instullation</li>
+				<li>Service Repairs</li>
+				<li>EXIT lighting</li>
+				<li>Building Remodles</li>
+				<li>Standby Systems</li>
+				<li>Meter Panel Upgrades</li>
+				<li>Maintanence Systems</li>
+				<li>Landscape/Parkinglot Lighting</li>
+				<li>Surge Protection</li>
+				<li>Upgrades/Improvements</li>
+				<li>High Voltage Connections</li>
+			</ul>
+		</div>
+
+		<div class="col-xs-12 col-sm-12 hidden-md hidden-lg">
+			<ul class="centerList">
 				<li>Lighting design/instullation</li>
 				<li>Service Repairs</li>
 				<li>EXIT lighting</li>

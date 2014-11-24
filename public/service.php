@@ -11,8 +11,15 @@
 		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 			<img src="/images/service_opt.jpg"class="ourWork center">
 		</div>
-		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		<div class="hidden-xs hidden-sm col-md-6 col-lg-6">
 			<ul>
+				<li>Added Security for visibility in commuities and streets</li>
+				<li>Lighted Community Ammenities</li>
+			</ul>
+		</div>
+		<!-- when sm or xs -->
+		<div class="col-xs-12 col-sm-12 hidden-md hidden-lg">
+			<ul class="centerList">
 				<li>Added Security for visibility in commuities and streets</li>
 				<li>Lighted Community Ammenities</li>
 			</ul>
