@@ -14,7 +14,7 @@
 		</div>
 		<div class="hidden-xs hidden-sm col-md-6 col-lg-6">
 			<ul>
-				<li>Lighting design / Installation</li>
+				<li>Lighting Design / Installation</li>
 				<li>Service Repairs</li>
 				<li>EXIT Lighting</li> 
 				<li>Building Remodels</li>
@@ -29,7 +29,7 @@
 
 		<div class="col-xs-12 col-sm-12 hidden-md hidden-lg">
 			<ul class="centerList">
-				<li>Lighting design / Installation</li>
+				<li>Lighting Design / Installation</li>
 				<li>Service Repairs</li>
 				<li>EXIT Lighting</li> 
 				<li>Building Remodels</li>
