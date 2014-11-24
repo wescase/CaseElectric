@@ -21,7 +21,7 @@
      </div>
      <div class="col-xs-12 col-sm-12 col-md-4">
     	<h3 class="text-center">SERVICE</h3>
-    	<p class="homePara">We provide many other services that don't fall under a category including but not limited to home inspection corrections, and home/office/business security sysyems . We are ready to service HOA communities with street light repair and more...</p>
+    	<p class="homePara">We provide many other services that do not fall under a category including but not limited to home inspection corrections, hard wires, as well as flood and fire damage estimates. Also we are ready to service HOA communities with street light repair and more...</p>
         <a href="service.php" class="btn btn-default btn-xs">See More</a>
     	<img src="/images/serviceJob.jpg" class="img-responsive img-circle center homeImg">
      </div>

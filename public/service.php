@@ -13,15 +13,15 @@
 		</div>
 		<div class="hidden-xs hidden-sm col-md-6 col-lg-6">
 			<ul>
-				<li>Added Security for visibility in commuities and streets</li>
-				<li>Lighted Community Ammenities</li>
+				<li>Added Security for Visibility in Communities and Streets</li>
+				<li>Lighted Community Amenities</li>
 			</ul>
 		</div>
 		<!-- when sm or xs -->
 		<div class="col-xs-12 col-sm-12 hidden-md hidden-lg">
 			<ul class="centerList">
-				<li>Added Security for visibility in commuities and streets</li>
-				<li>Lighted Community Ammenities</li>
+				<li>Added Security for Visibility in Communities and Streets</li>
+				<li>Lighted Community Amenities</li>
 			</ul>
 		</div>
 	</div>

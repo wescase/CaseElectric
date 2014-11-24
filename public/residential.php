@@ -14,14 +14,14 @@
 		<div class="hidden-xs hidden-sm col-md-6 col-lg-6">
 			<ul>
 				<li>Custom Lighting </li>
-				<li>Upgrades/Remodeling Improvements</li>
-				<li>Custom design lighting and installation</li>
-				<li>Outdoor lighting</li>
-				<li>Garage lighting</li>
-				<li>Entertainment system lighting</li>
+				<li>Upgrade / Remodeling Improvements</li>
+				<li>Custom Design Lighting and Installation</li>
+				<li>Outdoor Lighting</li>
+				<li>Garage Lighting</li>
+				<li>Entertainment System Lighting</li>
 				<li>Troubleshooting</li>
 				<li>Emergency Repairs</li>
-				<li>Surge/lighting protection</li>
+				<li>Surge / Lighting Protection</li>
 			</ul>
 		</div>
 	</div>
@@ -29,17 +29,17 @@
 	<div class="row homeImg">
 		<div class="hidden-xs hidden-sm col-md-6 col-lg-6">
 			<ul class="indent">
-				<li>Electrical improvements</li>
+				<li>Electrical Improvements</li>
 				<li>Fuse Panel Replacement</li>
-				<li>Installation of light fixtures and ceiling fans</li>
-				<li>Can lighting</li>
-				<li>Niche lighting</li>
-				<li>Ambient lighting</li>
-				<li>Chandiler lighting</li>
-				<li>Custom landscape lighting</li>
-				<li>Bar lighting</li>
-				<li>Floor/Stair lighting</li>
-				<li>Theater systems wiring</li>
+				<li>Installation of Light Fixtures and Ceiling Fans</li>
+				<li>Can Lighting</li>
+				<li>Niche Lighting</li>
+				<li>Ambient Lighting</li>
+				<li>Chandelier Lighting</li>
+				<li>Custom Landscape Lighting</li>
+				<li>Bar Lighting</li>
+				<li>Floor / Stair Lighting</li>
+				<li>Theater Systems Wiring</li>
 			</ul>
 		</div>
 
@@ -57,14 +57,14 @@
 		<div class="col-xs-12 col-sm-12 hidden-md hidden-lg">
 			<ul class="centerList">
 				<li>Custom Lighting </li>
-				<li>Upgrades/Remodeling Improvements</li>
-				<li>Custom design lighting and installation</li>
-				<li>Outdoor lighting</li>
-				<li>Garage lighting</li>
-				<li>Entertainment system lighting</li>
+				<li>Upgrade / Remodeling Improvements</li>
+				<li>Custom Design Lighting and Installation</li>
+				<li>Outdoor Lighting</li>
+				<li>Garage Lighting</li>
+				<li>Entertainment System Lighting</li>
 				<li>Troubleshooting</li>
 				<li>Emergency Repairs</li>
-				<li>Surge/lighting protection</li>
+				<li>Surge / Lighting Protection</li>
 			</ul>
 		</div>
 	</div>
@@ -75,17 +75,17 @@
 		</div>
 		<div class="col-xs-12 col-sm-12 hidden-md hidden-lg">
 			<ul class="centerList">
-				<li>Electrical improvements</li>
+				<li>Electrical Improvements</li>
 				<li>Fuse Panel Replacement</li>
-				<li>Installation of light fixtures and ceiling fans</li>
-				<li>Can lighting</li>
-				<li>Niche lighting</li>
-				<li>Ambient lighting</li>
-				<li>Chandiler lighting</li>
-				<li>Custom landscape lighting</li>
-				<li>Bar lighting</li>
-				<li>Floor/Stair lighting</li>
-				<li>Theater systems wiring</li>
+				<li>Installation of Light Fixtures and Ceiling Fans</li>
+				<li>Can Lighting</li>
+				<li>Niche Lighting</li>
+				<li>Ambient Lighting</li>
+				<li>Chandelier Lighting</li>
+				<li>Custom Landscape Lighting</li>
+				<li>Bar Lighting</li>
+				<li>Floor / Stair Lighting</li>
+				<li>Theater Systems Wiring</li>
 			</ul>
 		</div>
 	</div>
