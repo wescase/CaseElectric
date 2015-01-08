@@ -19,7 +19,7 @@
     <button type="button" class="btn btn-default navber-toggle float-right mobileMenu visible-xs" data-toggle="collapse" data-target="#mainNav" aria-expanded="true" aria-controls="navbar">
       <i class="fa fa-bars"></i>
     </button>
-    <a class="navbar-brand" href="www.caseelectricaz.com"><i class="fa fa-bolt"></i> Case Electric</a>
+    <a class="navbar-brand" href="/"><i class="fa fa-bolt"></i> Case Electric</a>
   </div> 
   <div id="mainNav" class="navbar-collapse collapse" aria-expanded="true">
    <ul class="nav navbar-nav">
