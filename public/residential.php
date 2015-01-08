@@ -1,5 +1,6 @@
 <?php
-	include "header.html";
+	$title = "Residential Electrician";
+	include "header.php";
 ?>
 <div class="container">
 <h1 class="headerClearNav">Residential</h1>

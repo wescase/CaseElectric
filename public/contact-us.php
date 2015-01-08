@@ -1,5 +1,6 @@
 <?php
-	include "header.html";
+	$title = "Contact Case Electric"
+	include "header.php";
 ?>
 <div class="container">
 	<h1 class="headerClearNav">CONTACT US</h1>

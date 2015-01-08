@@ -1,5 +1,6 @@
 <?php
-	include "header.html";
+	$title = "About-Us Case Electric";
+	include "header.php";
 ?>
 <div class="container">
 	<h1 class="headerClearNav">CASE ELECTRIC</h1>

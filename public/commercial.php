@@ -1,5 +1,6 @@
 <?php
-	include "header.html";
+	$title = "Commercial Electrician";
+	include "header.php";
 ?>
 
 <div class="container">

@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Case Electric</title>
+	<title><?php echo $title; ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -19,7 +19,7 @@
     <button type="button" class="btn btn-default navber-toggle float-right mobileMenu visible-xs" data-toggle="collapse" data-target="#mainNav" aria-expanded="true" aria-controls="navbar">
       <i class="fa fa-bars"></i>
     </button>
-    <a class="navbar-brand" href="www.caseelectricaz.com"><i class="fa fa-bolt"></i> Case Electric LLC</a>
+    <a class="navbar-brand" href="www.caseelectricaz.com"><i class="fa fa-bolt"></i> Case Electric</a>
   </div> 
   <div id="mainNav" class="navbar-collapse collapse" aria-expanded="true">
    <ul class="nav navbar-nav">

@@ -1,5 +1,6 @@
 <?php 	
-	include "header.html";
+    $title = "Case Electric";
+	include "header.php";
 	include "jumbotron.html";
 ?>
 
