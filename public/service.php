@@ -1,5 +1,5 @@
 <?php
-	"Service Electrician"
+	$title = "Service Electrician"
 	include "header.php";
 ?>
 <div class="container">

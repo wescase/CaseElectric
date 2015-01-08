@@ -1,5 +1,5 @@
 <?php
-	$title = "Contact Case Electric"
+	$title = "Contact Case Electric";
 	include "header.php";
 ?>
 <div class="container">
