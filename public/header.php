@@ -20,7 +20,7 @@
     <button type="button" class="btn btn-default navber-toggle float-right mobileMenu visible-xs" data-toggle="collapse" data-target="#mainNav" aria-expanded="true" aria-controls="navbar">
       <i class="fa fa-bars"></i>
     </button>
-    <a class="navbar-brand" href="/"><i class="fa fa-bolt"></i> Case Electric</a>
+    <a class="navbar-brand" href="#">Case Electric</a>
   </div> 
   <div id="mainNav" class="navbar-collapse collapse" aria-expanded="true">
    <ul class="nav navbar-nav">
@@ -35,7 +35,9 @@
           <li><a href="service.php">Service</a></li>
          </ul>
        </li>
+       <!-- <li class="payment"><a href="#"><i class="fa fa-credit-card"></i>Secure Credit Card Payments: Call (480) 433-9798</a></li> -->
    </ul>
+   <p class="navbar-text navbar-right"><i class="fa fa-credit-card fa-1x"> Secure Credit Card Payments: Call (480) 433-9798</i></p>
   </div>
 </div>
  </nav>

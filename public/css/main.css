@@ -5,6 +5,7 @@ body {
 
 .navbar-inverse .navbar-brand {
   color: #B2B2B2;
+  font-family: 'Audiowide', cursive; 
 }
 
 .jumbotron {
@@ -110,4 +111,15 @@ body {
 .centerList {
 	text-align: center;
 	list-style: none;
+}
+
+.navbar-inverse .navbar-text {
+	margin-top: 2.8%;
+}
+
+.navbar .container .navbar-brand, .navbar .container-fluid .navbar-brand {
+	color: #777;
+	text-decoration: none;
+	font-size: 1.5em;
+	margin-top: 20px;
 }
